@@ -63,3 +63,13 @@ Then to build:
      mka recoveryimage
 ```
 
+
+
+
+Credits
+-------
+* [**Teamwin Recovery Project (Base)**](https://github.com/TeamWin)
+* [**Omnirom**](https://github.com/omnirom)
+* [**RedWolf TWRP**](https://github.com/RedWolfRecovery)
+* [**PitchBlack TWRP**](https://github.com/PitchBlackTWRP)
+
