@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="dr"
+          fetch="https://github.com/DarkRecovery/" />  
+
+  <remove-project name="android_bootable_recovery"/>
+  <remove-project name="android_build"/>
+
+  <project name="dr_build" path="build" remote="dr" revision="dr" >
+    <copyfile src="core/root.mk" dest="Makefile" />
+  </project>
+
+  <project name="dr_manifest" path="manifest" remote="dr" revision="dr" />
+
+  <project name="dr_recovery" path="bootable/recovery" remote="dr" revision="dr" />
+  
+  <project name="dr_vendor" path="vendor/dark" remote="dr" revision="dr" />
+  
+  <project name="dr_device-land" path="device/xiaomi/land" remote="dr" revision="dr-land" />
+
+  <project name="TeamWin/android_device_qcom_common" path="device/qcom/common" remote="github" revision="android-7.1" />
+
+</manifest>
