@@ -19,6 +19,8 @@
   
   <project name="dr_device-land" path="device/xiaomi/land" remote="dr" revision="dr-land" />
 
+  <project name="dr_device-mido" path="device/xiaomi/mido" remote="dr" revision="dr-mido" />
+  
   <project name="TeamWin/android_device_qcom_common" path="device/qcom/common" remote="github" revision="android-7.1" />
 
 </manifest>
