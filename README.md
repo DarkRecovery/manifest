@@ -1,8 +1,10 @@
-
+---------------------------------------------
 
 <p align="center">
-**Dark Recovery Project**
+ <img src="https://github.com/DarkRecovery/dr_manifest/blob/dr/logo.png" > 
 </p>
+
+---------------------------------------------
 
 
 Credits
