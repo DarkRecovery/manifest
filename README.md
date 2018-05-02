@@ -27,7 +27,7 @@ To initialize your local repository using the OMNIROM trees to build TWRP, use a
 ```
 Then to sync up:
 ```bash
-repo sync
+    repo sync
 ```
 
  Compilation Of Dark Recovery
