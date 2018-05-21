@@ -21,11 +21,11 @@ Getting Started
 To get started with OMNI sources to build TWRP, you'll need to get
 familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
-To initialize your local repository using the OMNIROM trees to build TWRP, use a command like this:
+To initialize Dark Recovery local repository, use this command :
 ```bash
     repo init -u git://github.com/DarkRecovery/dr_manifest.git -b dr
 ```
-Then to sync up:
+Then to sync up :
 ```bash
     repo sync
 ```
